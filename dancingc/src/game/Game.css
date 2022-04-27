@@ -1,0 +1,21 @@
+p {
+    text-align: left;
+}
+
+table.gameTable {
+    border-collapse: collapse;
+}
+
+table.gameTable td,
+table.gameTable th {
+    border: solid 1px;
+    width: 200px;
+}
+
+th.turnPlayer{
+    background-color: red;
+}
+
+td.cardSelected {
+    background-color: yellow;
+}
